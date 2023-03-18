@@ -28,3 +28,18 @@ This will be a list of all my ideas for possible tangible interactive interfaces
   - Such as pots in Legend of Zelda or barrels in Donkey Kong
 - Piloting a sailing ship?
   - Do people care about pirate-style helming?
+- Search for treasure with a map
+- Viewing through a spy glass of some kind
+  - Magnifying glass, telescope, binoculars, I guess tourist viewfinders and camera as well?
+- Shopping in a themed environment
+  - Ex.: Diagon Alley from Harry Potter is specifically a shopping district
+- Eating iconic foods/Drinking iconic drinks
+  - Harry Potter Candy, butter beer, lembas bread from Lord of the Rings, the Eat Me and Drink Me items in Alice in Wonderland, Duff beer, etc.
+- Dressing in distinctive ways (uniforms, costumes)
+  - Both IP specific and drawn from culture
+- Riding the train
+- Falling down a rabbit hole in Alice in Wonderland
+- Cultural crafts (origiami, shadow puppetry, etc)
+- Jumping in a Super Mario land
+- Matrix bullet time
+- Martial arts
