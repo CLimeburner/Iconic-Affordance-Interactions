@@ -31,6 +31,8 @@ This will be a list of all my ideas for possible tangible interactive interfaces
 - Dressing in distinctive ways (uniforms, costumes)
   - Both IP specific and drawn from culture
 - Cultural crafts (origami, shadow puppetry, etc)
+- Spy gadgets
+  - Elaborating on this seems tricky without referencing specific stories
 
 **Environment-based** (involves an interface in the built environment)
 - Hacking with a keyboard
