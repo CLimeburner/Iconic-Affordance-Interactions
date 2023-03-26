@@ -5,7 +5,8 @@ This will be a list of all my ideas for possible tangible interactive interfaces
 **Prop-based** (involves a portable object)
 - Shooting guns
   - This is a "classic" but I do think there's some depth to this one that usually gets collapsed into concerns around guns. The actual affordance is a bit broader than guns and can be understood in ways that apply to wiffleball canons and bows as well, so this might merit some deeper elaboration.
-- Building on the above, Arm canons
+  - See WhatIsShooting.md under the main folder for further thoughts on shooting as a mechanic and aesthetic.
+  - Buzz Lightyear, Men in Black, cowboys, real world military scenarios, Fortnite, Valorant, TF2, Overwatch, Portal, bows, black powder cannon (in a pirate vein), pinball launching, magic spells, elemental bending (in the vein of Avatar), various Super Mario paraphernalia (fireballs, koopa shells), various Legend of Zelda paraphernalia (arrows, spells, boomerang, hookshot, pots), webslinging
   - Such as in Metroid or Mega Man
 - Swinging swords/other weapons
   - Similarly classic to the above guns, and similarly has some nuance. Do people have the same desires around a lightsaber as they do around a medieval sword or an ax?
@@ -15,6 +16,7 @@ This will be a list of all my ideas for possible tangible interactive interfaces
 - Throwing a Pokéball
 - The various camera operations in Pokemon Snap
 - Casting spells with a wand/staff/orb/cauldron
+  - Harry Potter, Lord of the Rings, D&D
 - Possibly riffing on the above, brewing potions
 - Various sports operations?
   - Baseball bat, hockey stick, throwing various types of balls, pole vaulting, etc
@@ -22,10 +24,12 @@ This will be a list of all my ideas for possible tangible interactive interfaces
 - Picking up and throwing various breakable vessels
   - Such as pots in Legend of Zelda or barrels in Donkey Kong
 - Search for treasure with a map
+  - Most obviously pirates, but could be adjusted to a space theme, geocaching
 - Searching for some MacGuffin
   - I'm thinking here about IP that have conspicuous "homing" tools, like the magic compass from Pirates of the Caribbean, or sci-fi RADAR
 - Viewing through a spy glass of some kind
   - Magnifying glass, telescope, binoculars, I guess tourist viewfinders and camera as well?
+  -Detective investigation, cryptid hunting, pirating,
 - Eating iconic foods/Drinking iconic drinks
   - Harry Potter Candy, butter beer, lembas bread from Lord of the Rings, the Eat Me and Drink Me items in Alice in Wonderland, Duff beer, etc.
 - Dressing in distinctive ways (uniforms, costumes)
@@ -33,6 +37,11 @@ This will be a list of all my ideas for possible tangible interactive interfaces
 - Cultural crafts (origami, shadow puppetry, etc)
 - Spy gadgets
   - Elaborating on this seems tricky without referencing specific stories
+  - Lasers, grappling hooks, x-ray glasses
+- Jousting
+  - This could also possibly go under vehicle-based because of the horse, but I'm putting it under prop for now based on the lance.
+- Building with dimensional units
+  - Lego, blocks, minecraft
 
 **Environment-based** (involves an interface in the built environment)
 - Hacking with a keyboard
@@ -44,9 +53,11 @@ This will be a list of all my ideas for possible tangible interactive interfaces
   - This could maybe also fall under gesture-based?
 - Cross a rope bridge
   - Trope of many adventure stories, could have potential?
+  - Pirates, Indiana Jones
 - Shopping in a themed environment
   - Ex.: Diagon Alley from Harry Potter is specifically a shopping district
 - Rock/net/rope climbing
+  - LoZ: Breath of the Wild, Uncharted
 - Punching the blocks in a Super Mario land
 
 **Vehicle-based** (involves piloting/riding something, realizing this is sorta environmental but also sorta prop-based?)
@@ -61,9 +72,13 @@ This will be a list of all my ideas for possible tangible interactive interfaces
 **Gesture-based** (involves the unaugmented body performing gesture as main focus)
 - Matrix bullet time
 - Martial arts
+  - Avatar: the Last Earth Bender, the Matrix, traditional martial arts action films, Street Fighter, Mortal Kombat
 - Jumping in a Super Mario land
-  - This could feasibly me environment-based as well
+  - This could feasibly be environment-based as well
 - Flying
   - Superman-style, for example
+  - Avatar (James Caneron stye)
 - Dancing
+  - Dance Dance Revolution
 - Fire breathing
+  - Mostly thinking circus performance, but what if you played a game where you were a dragon?
