@@ -82,3 +82,30 @@ This will be a list of all my ideas for possible tangible interactive interfaces
   - Dance Dance Revolution
 - Fire breathing
   - Mostly thinking circus performance, but what if you played a game where you were a dragon?
+
+
+
+## IP Analysis
+
+Top 20 watched video games on Twitch (by watch time, according to TwitchMetrics.net, Apr. 16. 2023)
+
+1. **Just Chatting**
+2. **League of Legends**
+3. **Grand Theft Auto V**
+4. **Valorant**
+5. **Counter-Strike: Global Offensive**
+6. **Dota 2**
+7. **Minecraft**
+8. **Resident Evil 4**
+9. **Apex Legends**
+10. **Fortnite**
+11. **Diablo IV**
+12. **Sports**
+13. **World fo Warcraft**
+14. **FIFA 23**
+15. **Virtual Casino**
+16. **Call of Duty: War Zone**
+17. **Teamfight Tactics**
+18. **Path of Exile**
+19. **Call of Duty: Modern Warfare II**
+20. **Overwatch 2**
