@@ -11,3 +11,7 @@ For this project, I'm setting out to design tangible interactive objects or inte
 5. Themed tangible interactivity should dissimulate its means of interactivity, not only hiding them, but rendering them experientially transparent.
 
 Some of these principles can be endlessly elaborated, but the general idea is to design some objects, consciously follow this principles, and see if a) it works, and b) any concrete methodology for applying the principles emerges from the process.
+
+## Shooting my Shot - Tuesday, Apr. 25, 2023
+
+I'm returning to this why document, not necessarily to overhaul the mission statement, but rather simply to add some refinement to it that I feel I've stumbled across. I feel as though I've previously been harsh on shooting dark rides, perhaps fairly for their overuse, but I'm increasingly feeling like my issue with them is less their pervasiveness so much as uniformity that fails to speak to even the actual appeal of shooting as an affordance. Both conceptually and in more targeted analysis, I've found myself repeatedly returning to the diversity of just what exactly "shooting" is as both an aesthetic and a mechanic, and I think I'm likely to actually pursue a design in that direction to see if maybe shooting actually does have greater value in it beyond the conventional point and shoot model. 
