@@ -90,22 +90,57 @@ This will be a list of all my ideas for possible tangible interactive interfaces
 Top 20 watched video games on Twitch (by watch time, according to TwitchMetrics.net, Apr. 16. 2023)
 
 1. **Just Chatting**
+  - Not a video game.
 2. **League of Legends**
+  - MOBA game, with reasonable fantasy tone, though definitely not high fantasy and much more genre blurring
+  - Seems to share some aspirational DNA with the classesfound in games like Overwatch or Valorant
+  - Possibly also some overlap with the "directing troops" angle of real-time strategy?
 3. **Grand Theft Auto V**
+  - shooting
+  - driving
+  - Seemingly not-insignificant roleplay community?
 4. **Valorant**
+  - Shooting, but notably with some selective roles and a popular game mode with plant/defuse mechanics
+  - Ult abilities
 5. **Counter-Strike: Global Offensive**
+  - Shooting, largely focused on a plant/defuse mechanic like the above Valorant, but no classes
 6. **Dota 2**
+  - Feels like similar points to League of Legends, perhaps more strongly fantasy in tone
+  - Might have to revisit these two for a deeper dive to identify a stronger distinction
 7. **Minecraft**
+  - I think voxel-based creative building is probably the big one here?
+  - A lot of possibilities branching from the core creative orientation of the game
 8. **Resident Evil 4**
+  - Shooting
+  - Hand-to-hand combat (with or without a knife)
+  - Puzzles
 9. **Apex Legends**
+  - Shooting with classes and a variety of game modes, possibly centered in team-based battle royale?
 10. **Fortnite**
+  - shooting without classes and a battle royale game mode
+  - dancing
+  - Building, though it feels very weird in the way it's deployed competitively in Fortnite
+  - All kinds of mobility items
+    - Jet packs, witch broom, swinging items like spiderman or the rig from Attack on Titan, the Silver Surfer's board, Goku's Nimbus Cloud)
+  - Honestly, this game is such a transmedial crossroads that it might just be easier to list what it doesn't have.
 11. **Diablo IV**
+  - Fantasy action RPG
 12. **Sports**
-13. **World fo Warcraft**
+  - Not a video game.
+13. **World of Warcraft**
+  - Fantasy MMORPG, so presumably the sorts of things you would expect from a fantasy RPG
 14. **FIFA 23**
+  - Playing soccer
 15. **Virtual Casino**
+  - Various forms of gambling
 16. **Call of Duty: War Zone**
+  - Shooting, battle royale game mode
 17. **Teamfight Tactics**
+  - Auto battler– this seems like a way deeper rabbit hole but as a strategy game, I'm not sure what the aspirational affordance is here. Possibly directing troops?
 18. **Path of Exile**
+  - Fantasy action RPG
 19. **Call of Duty: Modern Warfare II**
+  - Shooting, seemingly more oriented towards a deathmatch arrangement
 20. **Overwatch 2**
+  - Shooting, but with a variety of broad roles, specific abilities, and game modes (control, escort, etc.)
+  - Ult abilities
