@@ -6,4 +6,5 @@
 - Start ideating a dragon experience with firebreathing and flying
 - Start exploring a laser tag framework more inspired by popular fps games
 - Look into mobility tech for Splatoon
-- Look into targeting tech for Splatoon
+- ~~Look into targeting tech for Splatoon~~
+- Start using blitztag concept to build a functional prototype for shooting

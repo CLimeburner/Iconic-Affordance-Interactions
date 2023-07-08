@@ -1,0 +1,3 @@
+# Prototype v001 Description
+
+Drawing on The Graffiti Research Lab's blitzTag (https://www.graffitiresearchlab.de/blitztag/) as a basic tech model, this first prototype focuses on getting a "paint shooting" mechanic working using a conventional laser pointer, webcam, projector, and laptop running TouchDesigner. Essentially, a laser pointer is capable of being much brighter than anything else in a given visual frame, allowing for the creation of a TouchDesigner setup that will filter by luminance to extract laser hits and use that as data points for output graphics to the projector on the same surface. See accompanying Diagram.jpg file. 
