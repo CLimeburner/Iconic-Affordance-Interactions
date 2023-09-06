@@ -11,6 +11,6 @@
 - Add two-team functionality to first prototype
 - ~~Add basic scoring to first prototype~~
 - ~~Add score display~~
-- Add timer
-- Troubleshoot score display
+- ~~Add timer~~
+- ~~Troubleshoot score display~~
 - Add sound effect
