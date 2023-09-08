@@ -14,3 +14,4 @@
 - ~~Add timer~~
 - ~~Troubleshoot score display~~
 - Add sound effect
+- Build laser gun prototype
