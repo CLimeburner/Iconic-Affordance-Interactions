@@ -14,4 +14,7 @@
 - ~~Add timer~~
 - ~~Troubleshoot score display~~
 - Add sound effect
-- Build laser gun prototype
+- ~~Build shooter prototype~~
+- Tweak shooter function (length/frequency of flash)
+- Programming shooter team detection on TouchDesigner side
+- Design a temporary shooter casing for electronics
